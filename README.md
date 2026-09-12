@@ -1,6 +1,6 @@
 # Hi, I'm Theodore 👋
 
-### Software Engineer | SAP/ABAP | .NET | React | TypeScript
+### Software Engineer
 
 I'm a **Software Engineer** with a background in **Computer Science** and professional experience developing software for the insurance industry.
 
