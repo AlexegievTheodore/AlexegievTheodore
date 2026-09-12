@@ -1,6 +1,6 @@
 # Hi, I'm Theodore 👋
 
-### Software Engineer
+### Software Engineer | SAP/ABAP | .NET | React | TypeScript
 
 I'm a **Software Engineer** with a background in **Computer Science** and professional experience developing software for the insurance industry.
 
@@ -32,8 +32,8 @@ I enjoy the technical side of software engineering — **writing code, solving p
 ### Other Interests
 
 * ⚙️ Software & System Architecture
-* 💻 Open Source
 * 🎮 Game Development
+* 💻 Open Source
 * 🐧 Linux
 * 🎸 Guitar & Digital Audio
 
@@ -59,6 +59,7 @@ Athens University of Economics and Business (AUEB)
 ## 📫 Contact
 
 * 📧 Email: **[alexegievteo@gmail.com](mailto:alexegievteo@gmail.com)**
+* 💼 LinkedIn: [**Theodore Alexegiev**](https://www.linkedin.com/in/theodore-alexegiev-954399273/)
 
 ---
 
